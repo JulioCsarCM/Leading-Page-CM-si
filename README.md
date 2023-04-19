@@ -1,5 +1,5 @@
 # Leading-Page-CM-si
 Apresentação Leading Page de produto Mobile: Crazy Ro-bot!
-Conforme as exigências do Projeto em Construção de Sistemas ministrado pelo Professor Thiago Traue, da disciplina em Projeto e Programação Java Avançado.
-Abril de 2023, Universidade Nove de Julho.
-Grupo 10: Crazy Machines.
+Conforme as exigências do Projeto pratico em construção de sistemas ministrado pelo Professor Thiago G. Traue, en disciplina de Projeto e Programação Avançada a orientação por objetos.
+Abril de 2023, Sistemas de Informação, Universidade Nove de Julho.
+Grupo 10: Crazy Machines S.I - Turma 11 - Vila Prudente.
